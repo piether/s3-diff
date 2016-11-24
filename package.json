@@ -1,0 +1,24 @@
+{
+  "name": "s3-diff",
+  "version": "1.0.0",
+  "description": "A library to compare lists of s3 objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piether/s3-diff.git"
+  },
+  "keywords": [
+    "s3",
+    "diff",
+    "aws"
+  ],
+  "author": "Pieter Herroelen",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/piether/s3-diff/issues"
+  },
+  "homepage": "https://github.com/piether/s3-diff#readme"
+}
